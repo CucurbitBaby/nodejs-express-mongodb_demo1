@@ -1,0 +1,23 @@
+{
+  "name": "10express_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "md5-node": "^1.0.1",
+    "mongodb": "^3.2.4",
+    "multiparty": "^4.2.1"
+  },
+  "devDependencies": {
+    "express-session": "^1.16.1"
+  }
+}
